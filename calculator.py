@@ -1,5 +1,5 @@
 def main():
-    print("Hello from calculator main, second version!")
+    print("Hello from calculator main, development version!")
 
 
 if __name__ == "__main__":
